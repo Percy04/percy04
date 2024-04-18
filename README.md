@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Saptashwa Mandal, a student at the esteemed Manipal Institute of Technology, Manipal. I'm an IT student and am somebody very interested in coding, photography, videography and guitar. 
 
 <!--
 **Percy04/percy04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
